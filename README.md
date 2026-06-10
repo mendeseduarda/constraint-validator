@@ -12,8 +12,5 @@ Supported concepts:
 
 
 Tech Stack:
-- C++
-- Drogon
 - SQL
-- PostgreSQL
-- HTML/CSS
+
